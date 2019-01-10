@@ -3,8 +3,7 @@ from peronal_info import *
 
 
 upload_to = 'json_files/personal_info.json'
-data = {
-    "personal_info": {
+data = [{
         "first_name": FIRST_NAME,
         "last_name": LAST_NAME,
         "age": AGE,
@@ -13,8 +12,8 @@ data = {
         "email": EMAIL,
         "profession": PROFESSION,
         "work_at": WORK_AT
-    }
-}
+    },
+]
 
 def upload_data(upload_to, data):
     with open(upload_to, 'w') as f_obj:
