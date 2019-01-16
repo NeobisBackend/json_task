@@ -8,3 +8,4 @@ Repo for submitting the task for the first week
 - [Dastan](https://github.com/dastanmazhitov)
 - [Saddam](https://github.com/nsaddambek)
 - [Rysbai](https://github.com/Rysbai)
+- [NodirUmarov](https://github.com/NodirUmarov)
